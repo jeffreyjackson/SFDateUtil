@@ -1,7 +1,6 @@
 # SFDateUtil
 
-SFDateUtil is no longer available in Salesforce Mobile SDK 4.0
-I created this class in an attempt to bridge a legacy gap with an existing application.
+SFDateUtil is no longer available in Salesforce Mobile SDK 4.0 <br> I created this class in an attempt to bridge a legacy gap with an existing application.
 
 ## Related
 
